@@ -4,10 +4,9 @@ The project focuses on visualizing the sales trend of different coffee types fro
 It is developed as a part of the submission for IDEAS TIH Internship.
 
 ## 🎥 Demo
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the demo](./Demo_Video.mp4)
 
-*(Click the image above to watch the demo video)*  
-
+  
 ---
 
 ## 🛠️ Tech Stack
